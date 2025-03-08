@@ -117,7 +117,8 @@ This project is proudly open source under the MIT License.
 
 ### 🌟 Elevate Your Database Experience 🌟
 
-[Get Started](#-quick-start) • [View Demo](https://demo-link) • [Documentation](https://docs-link)
+[Get Started](#-quick-start)
+<!--  • [View Demo](https://demo-link) • [Documentation](https://docs-link) -->
 
 Made with 💻 & ❤️ by Dakshesh Solanki
 
