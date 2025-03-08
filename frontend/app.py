@@ -13,7 +13,8 @@ from typing import Dict, List, Any, Optional
 load_dotenv()
 
 # Constants
-API_URL = os.getenv("API_URL", "http://localhost:8000")
+# API_URL = os.getenv("API_URL", "http://localhost:8000")
+API_URL = os.getenv("API_URL", "https://ai-chat-agent.onrender.com/")
 DEFAULT_DB_TYPE = "mssql"  # Changed default to MSSQL
 
 # Page configuration
